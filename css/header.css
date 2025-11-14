@@ -70,7 +70,7 @@ section {
 }
 
 .header-log .logo img {
-  height: 100px;
+  height: 80px;
   width: auto;
   vertical-align: middle;
 }
@@ -83,7 +83,7 @@ section {
 
 .header-log .navbar a {
   position: relative;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   color: var(--main-color);
   font-weight: 500;
   transition: 0.3s ease;
@@ -177,7 +177,7 @@ section {
 }
 
 .header .logo img {
-  height: 100px; /* chiều cao ảnh */
+  height: 80px; /* chiều cao ảnh */
   width: auto; /* tự co chiều rộng theo tỉ lệ */
   vertical-align: middle; /* căn giữa theo chiều dọc */
 }
@@ -194,7 +194,7 @@ section {
 
 .header .navbar a {
   position: relative;
-  font-size: 1.8rem; /* chữ to hơn */
+  font-size: 1.6rem; /* chữ to hơn */
   color: var(--main-color);
   font-weight: 500;
   transition: 0.3s ease;
@@ -578,3 +578,4 @@ section {
         height: 400px;
     }
 }
+
